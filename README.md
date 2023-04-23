@@ -20,6 +20,10 @@
 - ### [React State Counter (Project 6)](https://github.com/vyomPundhir/State_Counter)
 
 ---
+- ### [React State Management via Zustand (Project 7)](https://github.com/vyomPundhir/React_State_Management_via_Zustand)
+
+---
+
 
 
 
