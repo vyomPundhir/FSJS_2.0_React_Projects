@@ -23,6 +23,9 @@
 - ### [React State Management via Zustand (Project 7)](https://github.com/vyomPundhir/React_State_Management_via_Zustand)
 
 ---
+- ### [React Tic Tac Toe (Project 8)](https://github.com/vyomPundhir/React_Tic_Tac_Toe)
+
+---
 
 
 
